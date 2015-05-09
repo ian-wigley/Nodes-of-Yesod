@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XNA Nodes of Yesod", "XNA Nodes of Yesod\XNA Nodes of Yesod.csproj", "{A2E8B064-BA74-46C4-BA91-EB05B569A2EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XNA Nodes of YesodContent", "XNA Nodes of Yesod\Content\XNA Nodes of YesodContent.contentproj", "{94CC2B7D-27D2-49E3-8A9A-2342FB9BEA06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2E8B064-BA74-46C4-BA91-EB05B569A2EC}.Debug|x86.ActiveCfg = Debug|x86
+		{A2E8B064-BA74-46C4-BA91-EB05B569A2EC}.Debug|x86.Build.0 = Debug|x86
+		{A2E8B064-BA74-46C4-BA91-EB05B569A2EC}.Release|x86.ActiveCfg = Release|x86
+		{A2E8B064-BA74-46C4-BA91-EB05B569A2EC}.Release|x86.Build.0 = Release|x86
+		{94CC2B7D-27D2-49E3-8A9A-2342FB9BEA06}.Debug|x86.ActiveCfg = Debug|x86
+		{94CC2B7D-27D2-49E3-8A9A-2342FB9BEA06}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
