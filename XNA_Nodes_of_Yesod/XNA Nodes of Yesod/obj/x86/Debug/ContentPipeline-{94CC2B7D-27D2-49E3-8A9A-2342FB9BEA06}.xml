@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>panel.PNG</Source>
+      <Name>panel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ianwi\OneDrive\Documents\GitHub\Nodes-of-Yesod\XNA Nodes of Yesod\XNA Nodes of Yesod\bin\x86\Debug\Content\panel.xnb</Output>
+      <Time>2016-10-31T05:59:02.1069425+00:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites.PNG</Source>
+      <Name>sprites</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ianwi\OneDrive\Documents\GitHub\Nodes-of-Yesod\XNA Nodes of Yesod\XNA Nodes of Yesod\bin\x86\Debug\Content\sprites.xnb</Output>
+      <Time>2016-10-31T05:59:02.1129571+00:00</Time>
+    </Item>
+    <Item>
+      <Source>aboverground_tiles.PNG</Source>
+      <Name>aboverground_tiles</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ianwi\OneDrive\Documents\GitHub\Nodes-of-Yesod\XNA Nodes of Yesod\XNA Nodes of Yesod\bin\x86\Debug\Content\aboverground_tiles.xnb</Output>
+      <Time>2016-10-31T05:59:02.0889074+00:00</Time>
+    </Item>
+    <Item>
+      <Source>underground_tiles_small.PNG</Source>
+      <Name>underground_tiles_small</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ianwi\OneDrive\Documents\GitHub\Nodes-of-Yesod\XNA Nodes of Yesod\XNA Nodes of Yesod\bin\x86\Debug\Content\underground_tiles_small.xnb</Output>
+      <Time>2016-10-31T05:59:02.1164675+00:00</Time>
+    </Item>
+    <Item>
+      <Source>collision_tile.PNG</Source>
+      <Name>collision_tile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ianwi\OneDrive\Documents\GitHub\Nodes-of-Yesod\XNA Nodes of Yesod\XNA Nodes of Yesod\bin\x86\Debug\Content\collision_tile.xnb</Output>
+      <Time>2016-10-31T05:59:02.0949154+00:00</Time>
+    </Item>
+    <Item>
+      <Source>charlieBlock.PNG</Source>
+      <Name>charlieBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ianwi\OneDrive\Documents\GitHub\Nodes-of-Yesod\XNA Nodes of Yesod\XNA Nodes of Yesod\bin\x86\Debug\Content\charlieBlock.xnb</Output>
+      <Time>2016-10-31T05:59:02.0919114+00:00</Time>
+    </Item>
+    <Item>
+      <Source>nodes_front_screen.png</Source>
+      <Name>nodes_front_screen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ianwi\OneDrive\Documents\GitHub\Nodes-of-Yesod\XNA Nodes of Yesod\XNA Nodes of Yesod\bin\x86\Debug\Content\nodes_front_screen.xnb</Output>
+      <Time>2016-10-31T05:59:02.1004257+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Hud.spritefont</Source>
+      <Name>Hud</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ianwi\OneDrive\Documents\GitHub\Nodes-of-Yesod\XNA Nodes of Yesod\XNA Nodes of Yesod\bin\x86\Debug\Content\Hud.xnb</Output>
+      <Time>2016-10-31T05:59:02.0818993+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{94CC2B7D-27D2-49E3-8A9A-2342FB9BEA06}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\ianwi\OneDrive\Documents\GitHub\Nodes-of-Yesod\XNA Nodes of Yesod\XNA Nodes of Yesod\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\ianwi\OneDrive\Documents\GitHub\Nodes-of-Yesod\XNA Nodes of Yesod\XNA Nodes of Yesod\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\ianwi\OneDrive\Documents\GitHub\Nodes-of-Yesod\XNA Nodes of Yesod\XNA Nodes of Yesod\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\ianwi\OneDrive\Documents\GitHub\Nodes-of-Yesod\XNA Nodes of Yesod\XNA Nodes of Yesod\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-11-06T19:12:27.864969+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

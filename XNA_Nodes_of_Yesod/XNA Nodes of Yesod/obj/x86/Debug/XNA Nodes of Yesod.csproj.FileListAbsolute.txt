@@ -1,0 +1,14 @@
+C:\Users\ianwi\OneDrive\Documents\GitHub\Nodes-of-Yesod\XNA Nodes of Yesod\XNA Nodes of Yesod\bin\x86\Debug\Content\panel.xnb
+C:\Users\ianwi\OneDrive\Documents\GitHub\Nodes-of-Yesod\XNA Nodes of Yesod\XNA Nodes of Yesod\bin\x86\Debug\Content\sprites.xnb
+C:\Users\ianwi\OneDrive\Documents\GitHub\Nodes-of-Yesod\XNA Nodes of Yesod\XNA Nodes of Yesod\bin\x86\Debug\Content\aboverground_tiles.xnb
+C:\Users\ianwi\OneDrive\Documents\GitHub\Nodes-of-Yesod\XNA Nodes of Yesod\XNA Nodes of Yesod\bin\x86\Debug\Content\underground_tiles_small.xnb
+C:\Users\ianwi\OneDrive\Documents\GitHub\Nodes-of-Yesod\XNA Nodes of Yesod\XNA Nodes of Yesod\bin\x86\Debug\Content\collision_tile.xnb
+C:\Users\ianwi\OneDrive\Documents\GitHub\Nodes-of-Yesod\XNA Nodes of Yesod\XNA Nodes of Yesod\bin\x86\Debug\Content\charlieBlock.xnb
+C:\Users\ianwi\OneDrive\Documents\GitHub\Nodes-of-Yesod\XNA Nodes of Yesod\XNA Nodes of Yesod\bin\x86\Debug\Content\nodes_front_screen.xnb
+C:\Users\ianwi\OneDrive\Documents\GitHub\Nodes-of-Yesod\XNA Nodes of Yesod\XNA Nodes of Yesod\bin\x86\Debug\Content\Hud.xnb
+C:\Users\ianwi\OneDrive\Documents\GitHub\Nodes-of-Yesod\XNA Nodes of Yesod\XNA Nodes of Yesod\bin\x86\Debug\XNA Nodes of Yesod.exe
+C:\Users\ianwi\OneDrive\Documents\GitHub\Nodes-of-Yesod\XNA Nodes of Yesod\XNA Nodes of Yesod\bin\x86\Debug\XNA Nodes of Yesod.pdb
+C:\Users\ianwi\OneDrive\Documents\GitHub\Nodes-of-Yesod\XNA Nodes of Yesod\XNA Nodes of Yesod\obj\x86\Debug\XNA Nodes of Yesod.csprojResolveAssemblyReference.cache
+C:\Users\ianwi\OneDrive\Documents\GitHub\Nodes-of-Yesod\XNA Nodes of Yesod\XNA Nodes of Yesod\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\ianwi\OneDrive\Documents\GitHub\Nodes-of-Yesod\XNA Nodes of Yesod\XNA Nodes of Yesod\obj\x86\Debug\XNA Nodes of Yesod.exe
+C:\Users\ianwi\OneDrive\Documents\GitHub\Nodes-of-Yesod\XNA Nodes of Yesod\XNA Nodes of Yesod\obj\x86\Debug\XNA Nodes of Yesod.pdb
